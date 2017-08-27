@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController
 public class TextController
 {
     @GetMapping(value = "/test")
-    fun test() = "Hello Spring Boot! (again)"
+    fun test() = "App running! (again)"
 }
 
