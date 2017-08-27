@@ -1,0 +1,4 @@
+rootProject.name = 'ping'
+include 'services'
+findProject(':services')?.name = 'ping-services'
+
