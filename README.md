@@ -1,5 +1,4 @@
-# Project *Ping*
-Kirk Chan | Author  
+# Project *Ping* 
 This README servers both as a change log and notes/journal for myself.
 
 ## Change Log
