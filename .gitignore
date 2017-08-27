@@ -1,6 +1,12 @@
-## JAVA/KOTLIN: Sourced from GitHub templates
+## IntelliJ IDEA
+.idea/*
+
+
+
+## KOTLIN
 # Compiled class file
 *.class
+out/
 
 # Log file
 *.log
@@ -23,7 +29,8 @@
 hs_err_pid*
 
 
-## GRADLE: Sourced from GitHubt templates
+
+## GRADLE
 .gradle
 /build/
 
