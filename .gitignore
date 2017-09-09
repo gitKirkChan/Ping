@@ -1,7 +1,10 @@
+## Sensitive information
+# Playing real safe like :)
+keystore.properties
+*.properties
+
 ## IntelliJ IDEA
 .idea/*
-
-test.properties
 
 ## KOTLIN
 # Compiled class file
